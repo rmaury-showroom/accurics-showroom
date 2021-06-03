@@ -1,0 +1,6 @@
+*.hcl
+.terraform/
+config
+terraform.*
+accurics_report*
+.DS_Store
